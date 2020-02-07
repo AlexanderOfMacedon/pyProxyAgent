@@ -1,0 +1,1 @@
+baseUrlRusFishing = 'https://www.rusfishing.ru'
